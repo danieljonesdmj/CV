@@ -7,9 +7,9 @@ If you're looking for a software developer slash certified advanced adventurer s
 ## Projects
 | Project | Description | Technologies
 |---|---|---|
-| [Final Project](https://github.com/danieljonesdmj) | Blah blah blah | Blah blah blah |
+| [Meshenger](https://github.com/danieljonesdmj/messenger-app) | Makers Academy final group project (2 weeks) - We built an iOS messenger app in Swift which could send messages via Bluetooth and Wifi-Direct as well as the internet.  | Swift, Xcode, Firebase, Bridgefy |
 | [Thermostat](https://github.com/danieljonesdmj/thermostat) |Makers Academy Week 5 project to test drive a simple front-end web app| Javascript, JQuery, Jasmine, 3rd party API |
-| [Project](https://github.com/danieljonesdmj) | Blah blah blah | Blah blah blah |
+| [Bank tech test](https://github.com/danieljonesdmj/bank-tech-test) | Simple bank account controller built to demonstate TDD skills and OO design | Javascript, Jasmine |
 ## Education
 
 #### Makers Academy (June 2018 to September 2018)
