@@ -3,13 +3,13 @@
 [Projects](#projects) | [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests)
 
 ---
-If you're looking for a software developer slash certified advanced adventurer scuba diver then look no further! I am a recent coding convert, transitioning from retail strategy roles into a full stack developer. I recently graduated from the intensive 16 week coding bootcamp [Makers Academy](https://Makers.tech) where I was immersed into the world of pair programming, object oriented design and test driven development. I am open minded and perceptive, with a focus on self-growth and would like to work for a company which encourages further growth and development.
+If you're looking for a software developer slash certified advanced adventurer scuba diver then look no further! I am a recent coding convert, transitioning from retail strategy roles into a full stack developer. I recently graduated from the intensive 16 week coding bootcamp [Makers Academy](https://Makers.tech) where I was immersed into the world of pair programming, object oriented design and test driven development. I would love to work for a company which encourages further growth and development and give me the chance to continue learning.
 ## Projects
-| Project | Description | Technologies
-|---|---|---|
-| [Meshenger](https://github.com/danieljonesdmj/messenger-app) | Makers Academy final group project (2 weeks) - We built an iOS messenger app in Swift which could send messages via Bluetooth and Wifi-Direct as well as the internet.  | Swift, Xcode, Firebase, Bridgefy |
-| [Thermostat](https://github.com/danieljonesdmj/thermostat) |Makers Academy Week 5 project to test drive a simple front-end web app| Javascript, jQuery, Jasmine, 3rd party API |
-| [Bank tech test](https://github.com/danieljonesdmj/bank-tech-test) | Simple bank account controller built to demonstate TDD skills and OO design | Javascript, Jasmine |
+| Project | Description | Technologies | Duration |
+|---|---|---|---|
+| [Meshenger](https://github.com/danieljonesdmj/messenger-app) | Makers Academy final group project. We built an iOS messenger app in Swift which could send messages via Bluetooth and Wifi-Direct as well as the internet | Swift, Xcode, Firebase, Bridgefy, JSQMessageViewController | 10 days | 
+| [Thermostat](https://github.com/danieljonesdmj/thermostat) |Thermostat project to test drive a simple front-end web app with an API connection| Javascript, jQuery, Jasmine, OpenWeatherMap API | 3 days |
+| [Bank Tech Test](https://github.com/danieljonesdmj/bank-tech-test) | Bank account controller built to demonstate TDD skills and OO design | Javascript, Jasmine | 3 days |
 ## Education
 
 #### Makers Academy (June 2018 to September 2018)
@@ -51,6 +51,7 @@ I gained skills during my degree which I have found useful for my transition int
 ## Experience
 
 **John Lewis Partnership** (April 2017 - June 2018) - London
+
 *Merchandising Assistant - Gift Food & Seasonal Buying Office* 
 
 Responsible for delivering the day to day merchandising operations to ensure the delivery of a profitable assortment. Built strong relationships with suppliers and stakeholders across the business so that the department could deliver its financial targets. Took decisive trading actions and proactively managed stock levels and flow to optimise availability for customers. Supported the creation and execution of the assortment strategy.
