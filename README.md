@@ -3,7 +3,7 @@
 [Projects](#projects) | [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests)
 
 ---
-If you're looking for a software developer slash certified advanced adventurer scuba diver then look no further! I am a recent coding convert, transitioning from retail strategy roles into a full stack developer. I recently graduated from the intensive 16 week coding bootcamp [Makers Academy](https://Makers.tech) where I was immersed into the world of pair programming, object oriented design and test driven development. I would love to work for a company which encourages further growth and development and give me the chance to continue learning.
+If you're looking for a software developer slash certified advanced adventurer scuba diver then look no further! I am a recent coding convert, transitioning from retail strategy roles into a full stack developer. I am a graduate from the intensive 16 week coding bootcamp [Makers Academy](https://Makers.tech) where I was immersed into the world of pair programming, object oriented design and test driven development. I would love to work for a company which encourages further growth and development and give me the chance to continue learning.
 ## Projects
 | Project | Description | Technologies | Duration |
 |---|---|---|---|
@@ -49,6 +49,12 @@ I love being part of a tight-knit team all pulling towards the same goal and enj
 I gained skills during my degree which I have found useful for my transition into coding. My degree strongly emphasised the scentific method which gave me a good process to follow. I had statistics modules which helped me with viewing and analysing lots of data, and I also gained strong research skills. I find this particulary useful when searching for solutions online, I can sift out useful information and hone in on what I need quickly.
 
 ## Experience
+
+**Exceedra Software Limited** (November 2018 - March 2019) - London
+
+*Technical Consultant - SQL*
+
+Learnt how to use SQL including querying tables and using joins. Found and debugged errors on a trade promotion management application. Used problem-solving skills to identify locations of errors and implemented fixes with a focus on optimum performance. Some experience using TFS as source control and Octopus to deploy fixes to production. Left to pursue web development roles.
 
 **John Lewis Partnership** (April 2017 - June 2018) - London
 
