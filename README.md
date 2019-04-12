@@ -54,7 +54,11 @@ I gained skills during my degree which I have found useful for my transition int
 
 *Technical Consultant - SQL*
 
-Learnt how to use SQL including querying tables and using joins. Found and debugged errors on a trade promotion management application. Used problem-solving skills to identify locations of errors and implemented fixes with a focus on optimum performance. Some experience using TFS as source control and Octopus to deploy fixes to production. Left to pursue web development roles.
+Used T-SQL and Microsoft SQL server to adapt a standard version of a trade promotion management application into bespoke versions adjusted to the clients specifications. Worked with major companies in the fast-moving consumer goods sector such as Bayer, Dairy Crest, and Vimto.
+
+Learnt how to write SQL from the 'Joes to Pros' series of books which included querying tables, using joins, and creating stored procedures. Initial way of putting new SQL skills into practice was to find and debug errors in the codebase. Used problem-solving skills to identify locations of the errors and implemented fixes with a focus on optimum performance. Later created client specific stored procedures for different functions such as changing what results were displayed in graphs and tables.
+
+Gained experience using TFS as source control and Octopus to deploy fixes to production as well as Jira for ticket allocation.
 
 **John Lewis Partnership** (April 2017 - June 2018) - London
 
